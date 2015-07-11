@@ -1,0 +1,1118 @@
+[cubase parse file]
+[parser version 0001]
+[comment] Cubase Patchname Scriptfile generated with PanameConverter 07/11/15 22:25:27
+[creators first name] Heiko Plate
+[creators last name] hpmusic: http:/www.heikoplate.de/mambo
+[device manufacturer] -
+[device name] EDIROL SD-20
+[script name] EDIROL SD-20
+[script version] -
+
+[define patchnames]
+
+[mode10]	Drumkits
+
+[g1]	Drum- and SFX-Kits
+
+
+[g2]		GM2 SFX and Drums
+[p3,  25, 120,   0]	ANALOG Set
+[p3,  40, 120,   0]	BRUSH Set
+[p3,  24, 120,   0]	ELECTRONIC Set
+[p3,  32, 120,   0]	JAZZ Set
+[p3,  48, 120,   0]	ORCHESTRA Set
+[p3,  16, 120,   0]	POWER Set
+[p3,   8, 120,   0]	ROOM Set
+[p3,  56, 120,   0]	SFX Set
+[p3,   0, 120,   0]	STANDARD Set
+
+[mode]	XG Voices
+
+[g1]	GM2 Voices
+
+[g2]		Piano
+[p3,   4, 121,   3]	 s A m F60's Electric Piano
+[p3,   0, 121,   0]	 s A m FAcoustic Grand Piano
+[p3,   0, 121,   2]	 s A m FAcoustic Grand Piano (
+[p3,   0, 121,   1]	 s A m FAcoustic Grand Piano (
+[p3,   1, 121,   0]	 s A m FBright Acoustic Piano
+[p3,   1, 121,   1]	 s A m FBright Acoustic Piano 
+[p3,   7, 121,   0]	 s A m FClavi
+[p3,   4, 121,   1]	 s A m FDetuned Electric Piano
+[p3,   5, 121,   1]	 s A m FDetuned Electric Piano
+[p3,   5, 121,   3]	 s A m FEP Legend
+[p3,   5, 121,   4]	 s A m FEP Phase
+[p3,   2, 121,   0]	 s A m FElectric Grand Piano
+[p3,   2, 121,   1]	 s A m FElectric Grand Piano (
+[p3,   4, 121,   2]	 s A m FElectric Piano 1 (velo
+[p3,   5, 121,   0]	 s A m FElectric Piano 2
+[p3,   5, 121,   2]	 s A m FElectric Piano 2 (velo
+[p3,   4, 121,   0]	 s A m FElectric Piano1
+[p3,   6, 121,   0]	 s A m FHarpsichord
+[p3,   6, 121,   1]	 s A m FHarpsichord (octave mi
+[p3,   6, 121,   2]	 s A m FHarpsichord (wide)
+[p3,   6, 121,   3]	 s A m FHarpsichord (with key 
+[p3,   3, 121,   0]	 s A m FHonky-tonk Piano
+[p3,   3, 121,   1]	 s A m FHonky-tonk Piano (wide
+[p3,   7, 121,   1]	 s A m FPulse Clavi
+
+[g2]		Chromatic Percussion
+[p3,  14, 121,   2]	 N   }   b N E p [ J b V     F
+[p3,   8, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,  14, 121,   1]	 N   }   b N E p [ J b V     F
+[p3,  15, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,   9, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,  12, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,  12, 121,   1]	 N   }   b N E p [ J b V     F
+[p3,  10, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,  14, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,  11, 121,   0]	 N   }   b N E p [ J b V     F
+[p3,  11, 121,   1]	 N   }   b N E p [ J b V     F
+[p3,  13, 121,   0]	 N   }   b N E p [ J b V     F
+
+[g2]		Organ
+[p3,  21, 121,   0]	 I   K   FAccordion
+[p3,  21, 121,   1]	 I   K   FAccordion 2
+[p3,  19, 121,   0]	 I   K   FChurch Organ
+[p3,  19, 121,   1]	 I   K   FChurch Organ (octave
+[p3,  19, 121,   2]	 I   K   FDetuned Church Organ
+[p3,  16, 121,   1]	 I   K   FDetuned Drawbar Orga
+[p3,  17, 121,   1]	 I   K   FDetuned Percussive O
+[p3,  16, 121,   0]	 I   K   FDrawbar Organ
+[p3,  16, 121,   3]	 I   K   FDrawbar Organ 2
+[p3,  22, 121,   0]	 I   K   FHarmonica
+[p3,  16, 121,   2]	 I   K   FItalian 60's Organ
+[p3,  17, 121,   0]	 I   K   FPercussive Organ
+[p3,  17, 121,   2]	 I   K   FPercussive Organ 2
+[p3,  20, 121,   1]	 I   K   FPuff Organ
+[p3,  20, 121,   0]	 I   K   FReed Organ
+[p3,  18, 121,   0]	 I   K   FRock Organ
+[p3,  23, 121,   0]	 I   K   FTango Accordion
+
+[g2]		Guitar
+[p3,  25, 121,   1]	 M   [ F12-Strings Guitar
+[p3,  24, 121,   2]	 M   [ FAcoustic Guitar (nylon
+[p3,  24, 121,   3]	 M   [ FAcoustic Guitar (nylon
+[p3,  24, 121,   0]	 M   [ FAcoustic Guitar (nylon
+[p3,  25, 121,   0]	 M   [ FAcoustic Guitar (steel
+[p3,  30, 121,   2]	 M   [ FDistorted Rhythm Guita
+[p3,  30, 121,   0]	 M   [ FDistortion Guitar
+[p3,  30, 121,   1]	 M   [ FDistortion Guitar (wit
+[p3,  27, 121,   0]	 M   [ FElectric Guitar (clean
+[p3,  27, 121,   1]	 M   [ FElectric Guitar (detun
+[p3,  28, 121,   1]	 M   [ FElectric Guitar (funky
+[p3,  26, 121,   0]	 M   [ FElectric Guitar (jazz)
+[p3,  28, 121,   2]	 M   [ FElectric Guitar (muted
+[p3,  28, 121,   0]	 M   [ FElectric Guitar (muted
+[p3,  26, 121,   1]	 M   [ FElectric Guitar (pedal
+[p3,  31, 121,   1]	 M   [ FGuitar Feedback
+[p3,  31, 121,   0]	 M   [ FGuitar Harmonics
+[p3,  29, 121,   1]	 M   [ FGuitar Pinch
+[p3,  28, 121,   3]	 M   [ FJazz Man
+[p3,  25, 121,   2]	 M   [ FMandolin
+[p3,  27, 121,   2]	 M   [ FMid Tone Guitar
+[p3,  29, 121,   0]	 M   [ FOverdriven Guitar
+[p3,  25, 121,   3]	 M   [ FSteel Guitar with Body
+[p3,  24, 121,   1]	 M   [ FUkulele
+
+[g2]		Bass
+[p3,  32, 121,   0]	 x [ X FAcoustic Bass
+[p3,  39, 121,   3]	 x [ X FAttack Pulse
+[p3,  38, 121,   3]	 x [ X FClavi Bass
+[p3,  33, 121,   0]	 x [ X FElectric Bass (finger)
+[p3,  34, 121,   0]	 x [ X FElectric Bass (pick)
+[p3,  33, 121,   1]	 x [ X FFinger Slap Bass
+[p3,  35, 121,   0]	 x [ X FFretless Bass
+[p3,  38, 121,   4]	 x [ X FHammer
+[p3,  36, 121,   0]	 x [ X FSlap Bass 1
+[p3,  37, 121,   0]	 x [ X FSlap Bass 2
+[p3,  39, 121,   2]	 x [ X FSynth Bass (rubber)
+[p3,  38, 121,   1]	 x [ X FSynth Bass (warm)
+[p3,  38, 121,   0]	 x [ X FSynth Bass 1
+[p3,  39, 121,   0]	 x [ X FSynth Bass 2
+[p3,  38, 121,   2]	 x [ X FSynth Bass 3 (resonanc
+[p3,  39, 121,   1]	 x [ X FSynth Bass 4 (attack)
+
+[g2]		Strings
+[p3,  42, 121,   0]	 I [ P X g   FCello
+[p3,  43, 121,   0]	 I [ P X g   FContrabass
+[p3,  46, 121,   0]	 I [ P X g   FOrchestral Harp
+[p3,  45, 121,   0]	 I [ P X g   FPizzicato String
+[p3,  47, 121,   0]	 I [ P X g   FTimpani
+[p3,  44, 121,   0]	 I [ P X g   FTremolo Strings
+[p3,  41, 121,   0]	 I [ P X g   FViola
+[p3,  40, 121,   0]	 I [ P X g   FViolin
+[p3,  40, 121,   1]	 I [ P X g   FViolin (slow att
+[p3,  46, 121,   1]	 I [ P X g   FYang Chin
+
+[g2]		Ensemble
+[p3,  48, 121,   2]	 A   T   u   F60s Strings
+[p3,  55, 121,   2]	 A   T   u   F6th Hit
+[p3,  54, 121,   1]	 A   T   u   FAnalog Voice
+[p3,  55, 121,   1]	 A   T   u   FBass Hit Plus
+[p3,  52, 121,   0]	 A   T   u   FChoir Aahs
+[p3,  52, 121,   1]	 A   T   u   FChoir Aahs 2
+[p3,  55, 121,   3]	 A   T   u   FEuro Hit
+[p3,  53, 121,   1]	 A   T   u   FHumming
+[p3,  55, 121,   0]	 A   T   u   FOrchestra Hit
+[p3,  48, 121,   0]	 A   T   u   FString Ensembles
+[p3,  49, 121,   0]	 A   T   u   FString Ensembles
+[p3,  48, 121,   1]	 A   T   u   FStrings and Bras
+[p3,  54, 121,   0]	 A   T   u   FSynth Voice
+[p3,  50, 121,   0]	 A   T   u   FSynthStrings 1
+[p3,  51, 121,   0]	 A   T   u   FSynthStrings 2
+[p3,  50, 121,   1]	 A   T   u   FSynthStrings 3
+[p3,  53, 121,   0]	 A   T   u   FVoice Oohs
+
+[g2]		Brass
+[p3,  62, 121,   2]	 u   X FAnalog Synth Brass 1
+[p3,  63, 121,   2]	 u   X FAnalog Synth Brass 2
+[p3,  61, 121,   0]	 u   X FBrass Section
+[p3,  61, 121,   1]	 u   X FBrass Section 2 (octav
+[p3,  57, 121,   2]	 u   X FBright Trombone
+[p3,  56, 121,   1]	 u   X FDark Trumpet Soft
+[p3,  60, 121,   0]	 u   X FFrench Horn
+[p3,  60, 121,   1]	 u   X FFrench Horn 2 (warm)
+[p3,  62, 121,   3]	 u   X FJump Brass
+[p3,  59, 121,   0]	 u   X FMuted Trumpet
+[p3,  59, 121,   1]	 u   X FMuted Trumpet 2
+[p3,  62, 121,   0]	 u   X FSynth Brass 1
+[p3,  63, 121,   0]	 u   X FSynth Brass 2
+[p3,  62, 121,   1]	 u   X FSynth Brass 3
+[p3,  63, 121,   1]	 u   X FSynth Brass 4
+[p3,  57, 121,   0]	 u   X FTrombone
+[p3,  57, 121,   1]	 u   X FTrombone 2
+[p3,  56, 121,   0]	 u   X FTrumpet
+[p3,  58, 121,   0]	 u   X FTuba
+
+[g2]		Reed
+[p3,  65, 121,   0]	   [ h FAlto Sax
+[p3,  67, 121,   0]	   [ h FBaritone Sax
+[p3,  70, 121,   0]	   [ h FBassoon
+[p3,  71, 121,   0]	   [ h FClarinet
+[p3,  69, 121,   0]	   [ h FEnglish Horn
+[p3,  68, 121,   0]	   [ h FOboe 
+[p3,  64, 121,   0]	   [ h FSoprano Sax
+[p3,  66, 121,   0]	   [ h FTenor Sax
+
+[g2]		Pipe
+[p3,  76, 121,   0]	   [ h FBlown Bottle
+[p3,  73, 121,   0]	   [ h FFlute
+[p3,  79, 121,   0]	   [ h FOcarina 
+[p3,  75, 121,   0]	   [ h FPan Flute
+[p3,  72, 121,   0]	   [ h FPiccolo
+[p3,  74, 121,   0]	   [ h FRecorder
+[p3,  77, 121,   0]	   [ h FShakuhachi
+[p3,  78, 121,   0]	   [ h FWhistle
+
+[g2]		Synth Lead
+[p3,  80, 121,   0]	 V   Z E   [ h FLead 1 (square
+[p3,  80, 121,   1]	 V   Z E   [ h FLead 1a (squar
+[p3,  80, 121,   2]	 V   Z E   [ h FLead 1b (sine)
+[p3,  81, 121,   0]	 V   Z E   [ h FLead 2 (sawtoo
+[p3,  81, 121,   1]	 V   Z E   [ h FLead 2a (sawto
+[p3,  81, 121,   2]	 V   Z E   [ h FLead 2b (saw +
+[p3,  81, 121,   3]	 V   Z E   [ h FLead 2c (doubl
+[p3,  81, 121,   4]	 V   Z E   [ h FLead 2d (seque
+[p3,  82, 121,   0]	 V   Z E   [ h FLead 3 (callio
+[p3,  83, 121,   0]	 V   Z E   [ h FLead 4 (chiff)
+[p3,  84, 121,   0]	 V   Z E   [ h FLead 5 (charan
+[p3,  84, 121,   1]	 V   Z E   [ h FLead 5a (wire 
+[p3,  85, 121,   0]	 V   Z E   [ h FLead 6 (voice)
+[p3,  86, 121,   0]	 V   Z E   [ h FLead 7 (fifths
+[p3,  87, 121,   0]	 V   Z E   [ h FLead 8 (bass +
+[p3,  87, 121,   1]	 V   Z E   [ h FLead 8a (soft 
+
+[g2]		Synth Pad
+[p3,  88, 121,   0]	 V   Z E p b h FPad 1 (new age
+[p3,  89, 121,   0]	 V   Z E p b h FPad 2 (warm)
+[p3,  89, 121,   1]	 V   Z E p b h FPad 2a (sine p
+[p3,  90, 121,   0]	 V   Z E p b h FPad 3 (polysyn
+[p3,  91, 121,   0]	 V   Z E p b h FPad 4 (choir)
+[p3,  91, 121,   1]	 V   Z E p b h FPad 4a (itopia
+[p3,  92, 121,   0]	 V   Z E p b h FPad 5 (bowed)
+[p3,  93, 121,   0]	 V   Z E p b h FPad 6 (metalli
+[p3,  94, 121,   0]	 V   Z E p b h FPad 7 (halo)
+[p3,  95, 121,   0]	 V   Z E p b h FPad 8 (sweep)
+
+[g2]		Synth Effects
+[p3,  96, 121,   0]	 V   ZSFX FFX 1 (rain)
+[p3,  97, 121,   0]	 V   ZSFX FFX 2 (soundtrack)
+[p3,  98, 121,   0]	 V   ZSFX FFX 3 (crystal)
+[p3,  98, 121,   1]	 V   ZSFX FFX 3a (synth mallet
+[p3,  99, 121,   0]	 V   ZSFX FFX 4 (atmosphere)
+[p3, 100, 121,   0]	 V   ZSFX FFX 5 (brightness)
+[p3, 101, 121,   0]	 V   ZSFX FFX 6 (goblins)
+[p3, 102, 121,   0]	 V   ZSFX FFX 7 (echoes) 
+[p3, 102, 121,   1]	 V   ZSFX FFX 7a (echo bell)
+[p3, 102, 121,   2]	 V   ZSFX FFX 7b (echo pan)
+[p3, 103, 121,   0]	 V   ZSFX FFX 8 (sci-fi)
+
+[g2]		Ethnic
+[p3, 109, 121,   0]	 G X j b N     FBag pipe
+[p3, 105, 121,   0]	 G X j b N     FBanjo
+[p3, 110, 121,   0]	 G X j b N     FFiddle
+[p3, 108, 121,   0]	 G X j b N     FKalimba
+[p3, 107, 121,   0]	 G X j b N     FKoto 55-84
+[p3, 106, 121,   0]	 G X j b N     FShamisen
+[p3, 111, 121,   0]	 G X j b N     FShanai
+[p3, 104, 121,   0]	 G X j b N     FSitar
+[p3, 104, 121,   1]	 G X j b N     FSitar 2 (bend)
+[p3, 107, 121,   1]	 G X j b N     FTaisho Koto
+
+[g2]		Percussive
+[p3, 113, 121,   0]	 p [ J b V u FAgogo
+[p3, 115, 121,   1]	 p [ J b V u FCastanets
+[p3, 116, 121,   1]	 p [ J b V u FConcert Bass Dru
+[p3, 118, 121,   2]	 p [ J b V u FElectric Drum
+[p3, 117, 121,   0]	 p [ J b V u FMelodic Tom
+[p3, 117, 121,   1]	 p [ J b V u FMelodic Tom 2 (p
+[p3, 119, 121,   0]	 p [ J b V u FReverse Cymbal
+[p3, 118, 121,   1]	 p [ J b V u FRhythm Box Tom
+[p3, 114, 121,   0]	 p [ J b V u FSteel Drums
+[p3, 118, 121,   0]	 p [ J b V u FSynth Drum
+[p3, 116, 121,   0]	 p [ J b V u FTaiko Drum
+[p3, 112, 121,   0]	 p [ J b V u FTinkle Bell
+[p3, 115, 121,   0]	 p [ J b V u FWoodblock
+
+[g2]		Sound Effects
+[p3, 120, 121,   2]	SFX FAcoustic Bass String Slap
+[p3, 126, 121,   0]	SFX FApplause
+[p3, 123, 121,   0]	SFX FBird Tweet
+[p3, 123, 121,   3]	SFX FBird Tweet2
+[p3, 121, 121,   0]	SFX FBreath Noise
+[p3, 122, 121,   5]	SFX FBubble
+[p3, 125, 121,   9]	SFX FBurst Noise
+[p3, 125, 121,   4]	SFX FCar Crash
+[p3, 125, 121,   1]	SFX FCar Engine
+[p3, 125, 121,   3]	SFX FCar Pass
+[p3, 125, 121,   2]	SFX FCar Stop
+[p3, 123, 121,   1]	SFX FDog
+[p3, 124, 121,   3]	SFX FDoor
+[p3, 124, 121,   2]	SFX FDoor Creaking
+[p3, 127, 121,   3]	SFX FExplosion
+[p3, 121, 121,   1]	SFX FFlute Key Click
+[p3, 126, 121,   5]	SFX FFootsteps
+[p3, 120, 121,   1]	SFX FGuitar Cutting Noise
+[p3, 120, 121,   0]	SFX FGuitar Fret Noise
+[p3, 127, 121,   0]	SFX FGunshot
+[p3, 126, 121,   4]	SFX FHeart Beat
+[p3, 125, 121,   0]	SFX FHelicopter
+[p3, 123, 121,   2]	SFX FHorse Gallop
+[p3, 125, 121,   7]	SFX FJetplane
+[p3, 127, 121,   2]	SFX FLasergun
+[p3, 126, 121,   1]	SFX FLaughing
+[p3, 127, 121,   1]	SFX FMachine Gun
+[p3, 126, 121,   3]	SFX FPunch
+[p3, 122, 121,   1]	SFX FRain
+[p3, 124, 121,   4]	SFX FScratch
+[p3, 126, 121,   2]	SFX FScreaming
+[p3, 122, 121,   0]	SFX FSeashore
+[p3, 125, 121,   5]	SFX FSiren
+[p3, 125, 121,   8]	SFX FStarship
+[p3, 122, 121,   4]	SFX FStream
+[p3, 124, 121,   0]	SFX FTelephone Ring
+[p3, 124, 121,   1]	SFX FTelephone Ring 2
+[p3, 122, 121,   2]	SFX FThunder
+[p3, 125, 121,   6]	SFX FTrain
+[p3, 122, 121,   3]	SFX FWind
+[p3, 124, 121,   5]	SFX FWind Chime
+
+[g1]	Other Voices
+[p2,  25, 104,   0]	Analog Set
+[p2,  25, 106,   0]	Analog2 Set
+[p2,  40, 104,   0]	Brush Set
+[p2,  24, 105,   0]	Dance Set
+[p2,  24, 104,   0]	Erectric Set
+[p2,  32, 104,   0]	Jazz Set
+[p2,  40, 105,   0]	Mono.Brush
+[p2,  32, 105,   0]	Mono.Jazz
+[p2,  16, 105,   0]	Mono.Power
+[p2,   8, 105,   0]	Mono.Room
+[p2,   0, 105,   0]	MonoStandard
+[p2,  48, 104,   0]	OrchestraSet
+[p2,  48, 105,   0]	OrchestraSet
+[p2,  48, 106,   0]	OrchestraSet
+[p2,  16, 104,   0]	Power Set
+[p2,  25, 105,   0]	Rave Set
+[p2,   8, 104,   0]	Room Set
+[p2,  24, 106,   0]	Rust Set
+[p2,  56, 104,   0]	SFX Set
+[p2,  56, 105,   0]	SFX Set
+[p2,  56, 106,   0]	SFX Set
+[p2, 126,  96,   0]	SFX FApplause
+[p2, 126,  97,   0]	SFX FApplause
+[p2, 126,  98,   0]	SFX FApplause
+[p2, 123,  96,   0]	SFX FBird Tweet
+[p2, 123,  97,   0]	SFX FBird Tweet
+[p2, 123,  98,   0]	SFX FBird Tweet
+[p2, 123,  96,   3]	SFX FBird Tweet 2
+[p2, 123,  97,   3]	SFX FBird Tweet 2
+[p2, 123,  98,   3]	SFX FBird Tweet 2
+[p2, 121,  96,   0]	SFX FBreath Noise
+[p2, 121,  97,   0]	SFX FBreath Noise
+[p2, 121,  98,   0]	SFX FBreath Noise
+[p2, 122,  96,   5]	SFX FBubble
+[p2, 122,  97,   5]	SFX FBubble
+[p2, 122,  98,   5]	SFX FBubble
+[p2, 125,  96,   9]	SFX FBurst Noise
+[p2, 125,  97,   9]	SFX FBurst Noise
+[p2, 125,  98,   9]	SFX FBurst Noise
+[p2, 125,  96,   4]	SFX FCar-Crash
+[p2, 125,  97,   4]	SFX FCar-Crash
+[p2, 125,  98,   4]	SFX FCar-Crash
+[p2, 125,  96,   1]	SFX FCar-Engine
+[p2, 125,  97,   1]	SFX FCar-Engine
+[p2, 125,  98,   1]	SFX FCar-Engine
+[p2, 125,  96,   3]	SFX FCar-Pass
+[p2, 125,  97,   3]	SFX FCar-Pass
+[p2, 125,  98,   3]	SFX FCar-Pass
+[p2, 125,  96,   2]	SFX FCar-Stop
+[p2, 125,  97,   2]	SFX FCar-Stop
+[p2, 125,  98,   2]	SFX FCar-Stop
+[p2, 123,  96,   1]	SFX FDog
+[p2, 123,  97,   1]	SFX FDog
+[p2, 123,  98,   1]	SFX FDog
+[p2, 124,  96,   3]	SFX FDoor
+[p2, 124,  97,   3]	SFX FDoor
+[p2, 124,  98,   3]	SFX FDoor
+[p2, 124,  96,   2]	SFX FDoor Creak
+[p2, 124,  97,   2]	SFX FDoor Creak
+[p2, 124,  98,   2]	SFX FDoor Creak
+[p2, 127,  96,   3]	SFX FExplosion
+[p2, 127,  97,   3]	SFX FExplosion
+[p2, 127,  98,   3]	SFX FExplosion
+[p2, 121,  96,   1]	SFX FFl.Key Click
+[p2, 121,  97,   1]	SFX FFl.Key Click
+[p2, 121,  98,   1]	SFX FFl.Key Click
+[p2, 126,  96,   5]	SFX FFootsteps
+[p2, 126,  97,   5]	SFX FFootsteps
+[p2, 126,  98,   5]	SFX FFootsteps
+[p2, 120,  96,   1]	SFX FGt.Cut Noise
+[p2, 120,  97,   1]	SFX FGt.Cut Noise
+[p2, 120,  98,   1]	SFX FGt.Cut Noise
+[p2, 120,  96,   0]	SFX FGtFret Noise
+[p2, 120,  97,   0]	SFX FGtFret Noise
+[p2, 120,  98,   0]	SFX FGtFret Noise
+[p2, 127,  96,   0]	SFX FGunshot
+[p2, 127,  97,   0]	SFX FGunshot
+[p2, 127,  98,   0]	SFX FGunshot
+[p2, 126,  96,   4]	SFX FHeart Beat
+[p2, 126,  97,   4]	SFX FHeart Beat
+[p2, 126,  98,   4]	SFX FHeart Beat
+[p2, 125,  96,   0]	SFX FHelicopter
+[p2, 125,  97,   0]	SFX FHelicopter
+[p2, 125,  98,   0]	SFX FHelicopter
+[p2, 123,  96,   2]	SFX FHorse Gallop
+[p2, 123,  97,   2]	SFX FHorse Gallop
+[p2, 123,  98,   2]	SFX FHorse Gallop
+[p2, 125,  96,   7]	SFX FJetplane
+[p2, 125,  97,   7]	SFX FJetplane
+[p2, 125,  98,   7]	SFX FJetplane
+[p2, 127,  96,   2]	SFX FLasergun
+[p2, 127,  97,   2]	SFX FLasergun
+[p2, 127,  98,   2]	SFX FLasergun
+[p2, 126,  96,   1]	SFX FLaughing
+[p2, 126,  97,   1]	SFX FLaughing
+[p2, 126,  98,   1]	SFX FLaughing
+[p2, 127,  96,   1]	SFX FMachine Gun
+[p2, 127,  97,   1]	SFX FMachine Gun
+[p2, 127,  98,   1]	SFX FMachine Gun
+[p2, 126,  96,   3]	SFX FPunch
+[p2, 126,  97,   3]	SFX FPunch
+[p2, 126,  98,   3]	SFX FPunch
+[p2, 122,  96,   1]	SFX FRain
+[p2, 122,  97,   1]	SFX FRain
+[p2, 122,  98,   1]	SFX FRain
+[p2, 124,  96,   4]	SFX FScratch
+[p2, 124,  97,   4]	SFX FScratch
+[p2, 124,  98,   4]	SFX FScratch
+[p2, 126,  96,   2]	SFX FScreaming
+[p2, 126,  97,   2]	SFX FScreaming
+[p2, 126,  98,   2]	SFX FScreaming
+[p2, 122,  96,   0]	SFX FSeashore
+[p2, 122,  97,   0]	SFX FSeashore
+[p2, 122,  98,   0]	SFX FSeashore
+[p2, 125,  96,   5]	SFX FSiren
+[p2, 125,  97,   5]	SFX FSiren
+[p2, 125,  98,   5]	SFX FSiren
+[p2, 120,  96,   2]	SFX FSlap St.Bass
+[p2, 120,  97,   2]	SFX FSlap St.Bass
+[p2, 120,  98,   2]	SFX FSlap St.Bass
+[p2, 125,  96,   8]	SFX FStarship
+[p2, 125,  97,   8]	SFX FStarship
+[p2, 125,  98,   8]	SFX FStarship
+[p2, 122,  96,   4]	SFX FStream
+[p2, 122,  97,   4]	SFX FStream
+[p2, 122,  98,   4]	SFX FStream
+[p2, 124,  96,   0]	SFX FTelephone
+[p2, 124,  97,   0]	SFX FTelephone
+[p2, 124,  98,   0]	SFX FTelephone
+[p2, 124,  96,   1]	SFX FTelephone 2
+[p2, 124,  97,   1]	SFX FTelephone 2
+[p2, 124,  98,   1]	SFX FTelephone 2
+[p2, 122,  96,   2]	SFX FThunder
+[p2, 122,  97,   2]	SFX FThunder
+[p2, 122,  98,   2]	SFX FThunder
+[p2, 125,  96,   6]	SFX FTrain
+[p2, 125,  97,   6]	SFX FTrain
+[p2, 125,  98,   6]	SFX FTrain
+[p2, 122,  96,   3]	SFX FWind
+[p2, 122,  97,   3]	SFX FWind
+[p2, 122,  98,   3]	SFX FWind
+[p2, 124,  96,   5]	SFX FWind Chimes
+[p2, 124,  97,   5]	SFX FWind Chimes
+[p2, 124,  98,   5]	SFX FWind Chimes
+[p2,  40, 106,   0]	St.Brush
+[p2,  32, 106,   0]	St.Jazz
+[p2,  16, 106,   0]	St.Power
+[p2,   8, 106,   0]	St.Room
+[p2,   0, 106,   0]	St.Standard
+[p2,   0, 104,   0]	Standard Set
+[p2,  48,  96,   2]	 A   T   u   F60'Strings
+[p2,  55,  96,   2]	 A   T   u   F6th Hit
+[p2,  55,  97,   2]	 A   T   u   F6th Hit 2
+[p2,  54,  96,   1]	 A   T   u   FAna Voice
+[p2,  54,  97,   1]	 A   T   u   FAna Voice 2
+[p2,  54,  98,   1]	 A   T   u   FAna Voice 3
+[p2,  55,  96,   1]	 A   T   u   FBass Hit
+[p2,  55,  97,   1]	 A   T   u   FBass Hit 2
+[p2,  50,  97,   0]	 A   T   u   FBriteSyn.Str
+[p2,  52,  96,   0]	 A   T   u   FChoir Aahs
+[p2,  52,  96,   1]	 A   T   u   FChoir Aahs 2
+[p2,  55,  96,   3]	 A   T   u   FEuro Hit
+[p2,  55,  97,   3]	 A   T   u   FEuro Hit 2
+[p2,  53,  96,   1]	 A   T   u   FHamming
+[p2,  53,  97,   1]	 A   T   u   FHamming 2
+[p2,  52,  97,   0]	 A   T   u   FLarge Choir
+[p2,  48,  97,   2]	 A   T   u   FOct. Strings
+[p2,  50,  97,   1]	 A   T   u   FOct.SynStr.1
+[p2,  50,  98,   1]	 A   T   u   FOct.SynStr.2
+[p2,  55,  97,   0]	 A   T   u   FOrc Hit 2
+[p2,  48,  96,   1]	 A   T   u   FOrchestra
+[p2,  48,  97,   1]	 A   T   u   FOrchestra 2
+[p2,  55,  96,   0]	 A   T   u   FOrchestrahit
+[p2,  49,  96,   0]	 A   T   u   FSlow Strings
+[p2,  49,  97,   0]	 A   T   u   FSlowStrings2
+[p2,  52,  97,   1]	 A   T   u   FSmall Choir
+[p2,  55,  98,   2]	 A   T   u   FSt.6th Hit
+[p2,  55,  98,   1]	 A   T   u   FSt.Bass Hit
+[p2,  52,  98,   0]	 A   T   u   FSt.ChoirAahs
+[p2,  55,  98,   3]	 A   T   u   FSt.Euro Hit
+[p2,  53,  98,   1]	 A   T   u   FSt.Hamming
+[p2,  48,  98,   2]	 A   T   u   FSt.OctStr 1
+[p2,  55,  98,   0]	 A   T   u   FSt.Orc Hit
+[p2,  48,  98,   1]	 A   T   u   FSt.Orchestra
+[p2,  49,  98,   0]	 A   T   u   FSt.Slow Str
+[p2,  52,  98,   1]	 A   T   u   FSt.Sm Choir
+[p2,  48,  98,   0]	 A   T   u   FSt.Strings
+[p2,  54,  98,   0]	 A   T   u   FSt.SynVox
+[p2,  53,  98,   0]	 A   T   u   FSt.Vox Oohs
+[p2,  50,  98,   0]	 A   T   u   FStackSyn.Str
+[p2,  48,  96,   0]	 A   T   u   FStrings
+[p2,  48,  97,   0]	 A   T   u   FStrings 2
+[p2,  50,  96,   0]	 A   T   u   FSyn.Strings1
+[p2,  51,  96,   0]	 A   T   u   FSyn.Strings2
+[p2,  50,  96,   1]	 A   T   u   FSyn.Strings3
+[p2,  54,  96,   0]	 A   T   u   FSynVox
+[p2,  54,  97,   0]	 A   T   u   FSynVox 2
+[p2,  53,  96,   0]	 A   T   u   FVoice Oohs
+[p2,  53,  97,   0]	 A   T   u   FVoice Oohs 2
+[p2,  51,  97,   0]	 A   T   u   FWarm SynStr1
+[p2,  51,  98,   0]	 A   T   u   FWarm SynStr2
+[p2, 104,  97,   0]	 G X j b N     FAtk Sitar
+[p2, 104,  97,   1]	 G X j b N     FAtk Sitar 2
+[p2, 109,  96,   0]	 G X j b N     FBag Pipe
+[p2, 109,  97,   0]	 G X j b N     FBag Pipe 2
+[p2, 105,  96,   0]	 G X j b N     FBanjo
+[p2, 105,  97,   0]	 G X j b N     FBanjo 2
+[p2, 110,  96,   0]	 G X j b N     FFiddle
+[p2, 110,  98,   0]	 G X j b N     FFiddle 2 vib
+[p2, 110,  97,   0]	 G X j b N     FFiddle vib
+[p2, 108,  96,   0]	 G X j b N     FKalimba
+[p2, 108,  97,   0]	 G X j b N     FKalimba 2
+[p2, 107,  96,   0]	 G X j b N     FKoto
+[p2, 107,  97,   0]	 G X j b N     FKoto 2
+[p2, 106,  96,   0]	 G X j b N     FShamisen
+[p2, 106,  97,   0]	 G X j b N     FShamisen 2
+[p2, 111,  96,   0]	 G X j b N     FShanai
+[p2, 111,  97,   0]	 G X j b N     FShanai 2
+[p2, 104,  96,   0]	 G X j b N     FSitar
+[p2, 104,  96,   1]	 G X j b N     FSitar 2
+[p2, 109,  98,   0]	 G X j b N     FSt.Bag Pipe
+[p2, 105,  98,   0]	 G X j b N     FSt.Banjo
+[p2, 108,  98,   0]	 G X j b N     FSt.Kalimba
+[p2, 107,  98,   0]	 G X j b N     FSt.Koto
+[p2, 106,  98,   0]	 G X j b N     FSt.Shamisen
+[p2, 111,  98,   0]	 G X j b N     FSt.Shanai
+[p2, 104,  98,   0]	 G X j b N     FSt.Sitar
+[p2, 104,  98,   1]	 G X j b N     FSt.Sitar 2
+[p2, 107,  98,   1]	 G X j b N     FSt.T Koto
+[p2, 107,  96,   1]	 G X j b N     FTaisho Koto
+[p2, 107,  97,   1]	 G X j b N     FTaisho Koto2
+[p2,  43,  97,   0]	 I [ P X g   FCb vib
+[p2,  43,  98,   0]	 I [ P X g   FCb2 vib
+[p2,  42,  96,   0]	 I [ P X g   FCello
+[p2,  42,  97,   0]	 I [ P X g   FCello vib
+[p2,  42,  98,   0]	 I [ P X g   FCello2 vib
+[p2,  43,  96,   0]	 I [ P X g   FContrabass
+[p2,  46,  96,   0]	 I [ P X g   FHarp
+[p2,  46,  97,   0]	 I [ P X g   FHarp 2
+[p2,  45,  96,   0]	 I [ P X g   FPizzicato
+[p2,  45,  97,   0]	 I [ P X g   FPizzicato 2
+[p2,  40,  96,   1]	 I [ P X g   FSlow Violin
+[p2,  40,  97,   1]	 I [ P X g   FSlow Vln vib
+[p2,  40,  98,   1]	 I [ P X g   FSlowVln2 vib
+[p2,  46,  98,   0]	 I [ P X g   FSt.Harp
+[p2,  45,  98,   0]	 I [ P X g   FSt.Pizzicato
+[p2,  47,  98,   0]	 I [ P X g   FSt.Timpani
+[p2,  44,  98,   0]	 I [ P X g   FSt.Trem Str
+[p2,  46,  98,   1]	 I [ P X g   FSt.Yangqin
+[p2,  47,  96,   0]	 I [ P X g   FTimpani
+[p2,  47,  97,   0]	 I [ P X g   FTimpani 2
+[p2,  44,  96,   0]	 I [ P X g   FTremolo Str
+[p2,  44,  97,   0]	 I [ P X g   FTremolo Str2
+[p2,  41,  96,   0]	 I [ P X g   FViola
+[p2,  41,  97,   0]	 I [ P X g   FViola vib
+[p2,  41,  98,   0]	 I [ P X g   FViola2 vib
+[p2,  40,  96,   0]	 I [ P X g   FViolin
+[p2,  40,  98,   0]	 I [ P X g   FViolin 2 vib
+[p2,  40,  97,   0]	 I [ P X g   FViolin vib
+[p2,  46,  96,   1]	 I [ P X g   FYangqin
+[p2,  46,  97,   1]	 I [ P X g   FYangqin 2
+[p2,  21,  96,   0]	 I   K   FAccordion F
+[p2,  21,  96,   1]	 I   K   FAccordion I
+[p2,  16,  97,   1]	 I   K   FBallad B
+[p2,  23,  96,   0]	 I   K   FBandneon
+[p2,  23,  97,   0]	 I   K   FBandneon 1
+[p2,  19,  96,   0]	 I   K   FChurch 1
+[p2,  19,  96,   1]	 I   K   FChurch 2
+[p2,  19,  96,   2]	 I   K   FChurch 3
+[p2,  16,  96,   1]	 I   K   FDetuned Or1
+[p2,  17,  96,   1]	 I   K   FDetuned Or2
+[p2,  17,  97,   2]	 I   K   FDist.JzOrg.1
+[p2,  17,  98,   2]	 I   K   FDist.JzOrg.2
+[p2,  21,  97,   0]	 I   K   FFrench Acc.
+[p2,  16,  98,   3]	 I   K   FFull Stops
+[p2,  16,  97,   2]	 I   K   FHappy 60s
+[p2,  22,  96,   0]	 I   K   FHarmonica
+[p2,  22,  97,   0]	 I   K   FHarmonica 2
+[p2,  21,  97,   1]	 I   K   FIt Muset
+[p2,  17,  97,   0]	 I   K   FJazz Organ 1
+[p2,  17,  98,   0]	 I   K   FJazz Organ 2
+[p2,  19,  97,   1]	 I   K   FLargeChurch1
+[p2,  19,  98,   1]	 I   K   FLargeChurch2
+[p2,  16,  96,   0]	 I   K   FOrgan 1
+[p2,  17,  96,   0]	 I   K   FOrgan 2
+[p2,  18,  96,   0]	 I   K   FOrgan 3
+[p2,  18,  97,   0]	 I   K   FOrgan 3 fast
+[p2,  16,  96,   3]	 I   K   FOrgan 4
+[p2,  17,  96,   2]	 I   K   FOrgan 5
+[p2,  16,  96,   2]	 I   K   FOrgan 60
+[p2,  20,  97,   1]	 I   K   FOrgan Flute
+[p2,  17,  97,   1]	 I   K   FPerc. Organ1
+[p2,  17,  98,   1]	 I   K   FPerc. Organ2
+[p2,  16,  97,   0]	 I   K   FPerky
+[p2,  19,  97,   0]	 I   K   FPipe Organ 1
+[p2,  19,  98,   0]	 I   K   FPipe Organ 2
+[p2,  20,  96,   1]	 I   K   FPuff Organ
+[p2,  20,  96,   0]	 I   K   FReed Organ
+[p2,  20,  97,   0]	 I   K   FReed Organ 2
+[p2,  20,  98,   0]	 I   K   FReed Organ 3
+[p2,  18,  98,   0]	 I   K   FRock Organ
+[p2,  16,  98,   1]	 I   K   FRocker
+[p2,  16,  98,   0]	 I   K   FRoller
+[p2,  19,  97,   2]	 I   K   FSmallChurch1
+[p2,  19,  98,   2]	 I   K   FSmallChurch2
+[p2,  16,  98,   2]	 I   K   FSoft60'Organ
+[p2,  21,  98,   0]	 I   K   FSr.FrenchAcc
+[p2,  23,  98,   0]	 I   K   FSt.Bandneon
+[p2,  22,  98,   0]	 I   K   FSt.Harmonica
+[p2,  21,  98,   1]	 I   K   FSt.It Muset
+[p2,  20,  98,   1]	 I   K   FTheater
+[p2,  16,  97,   3]	 I   K   FTone Wheel
+[p2,  25,  96,   1]	 M   [ F12-Str.Gt
+[p2,  25,  97,   1]	 M   [ F12-Str.Gt 2
+[p2,  25,  98,   1]	 M   [ F12-Str.Gt 3
+[p2,  27,  98,   2]	 M   [ F335
+[p2,  30,  97,   0]	 M   [ FAtk Dist.Gt
+[p2,  29,  97,   0]	 M   [ FAtk Drive Gt
+[p2,  27,  98,   1]	 M   [ FChorus Clean
+[p2,  27,  96,   1]	 M   [ FClean Half
+[p2,  27,  96,   0]	 M   [ FClean Rear
+[p2,  30,  98,   0]	 M   [ FDist.Gt 2
+[p2,  30,  96,   2]	 M   [ FDistRythm Gt
+[p2,  30,  96,   0]	 M   [ FDistortionGt
+[p2,  30,  96,   1]	 M   [ FFeedback Gt.
+[p2,  30,  98,   1]	 M   [ FFeedback OD
+[p2,  30,  97,   1]	 M   [ FFeedbackGt.2
+[p2,  31,  98,   1]	 M   [ FFeedbackHarm
+[p2,  31,  97,   1]	 M   [ FFeedbackOct
+[p2,  28,  96,   1]	 M   [ FFunk Gt.
+[p2,  28,  96,   2]	 M   [ FFunk Gt.2
+[p2,  28,  97,   2]	 M   [ FFunk Pop
+[p2,  28,  98,   2]	 M   [ FFunk Pop 2
+[p2,  28,  97,   1]	 M   [ FFunkGt Slap
+[p2,  28,  98,   1]	 M   [ FFunkGt.Slap2
+[p2,  31,  96,   1]	 M   [ FGt.Feedback
+[p2,  31,  97,   0]	 M   [ FGt.Harm 2
+[p2,  31,  96,   0]	 M   [ FGt.Harmonics
+[p2,  31,  98,   0]	 M   [ FGt.OctHarm
+[p2,  29,  96,   1]	 M   [ FGt.Pinch
+[p2,  29,  97,   1]	 M   [ FGt.Pinch 2
+[p2,  29,  98,   1]	 M   [ FGt.Pinch 3
+[p2,  24,  98,   3]	 M   [ FHard Gut Gt.2
+[p2,  24,  97,   3]	 M   [ FHard GutGt.
+[p2,  26,  96,   0]	 M   [ FJazz Gt.
+[p2,  26,  97,   0]	 M   [ FJazz Gt. 2
+[p2,  26,  98,   0]	 M   [ FJazz Gt. 3
+[p2,  28,  96,   3]	 M   [ FJazz Man
+[p2,  25,  96,   2]	 M   [ FMandolin
+[p2,  25,  97,   2]	 M   [ FMandolin 2
+[p2,  25,  98,   2]	 M   [ FMandolin 3
+[p2,  27,  96,   2]	 M   [ FMid Tone Gt.
+[p2,  28,  97,   3]	 M   [ FMute Jazz Gt
+[p2,  30,  97,   2]	 M   [ FMuted Dist
+[p2,  30,  98,   2]	 M   [ FMuted Dist 2
+[p2,  28,  96,   0]	 M   [ FMuted Gt.
+[p2,  24,  97,   2]	 M   [ FNylon 2 o
+[p2,  24,  98,   2]	 M   [ FNylon 3 o
+[p2,  24,  96,   0]	 M   [ FNylon Gt.
+[p2,  24,  97,   0]	 M   [ FNylon Gt. 2
+[p2,  24,  98,   0]	 M   [ FNylon Gt. 3
+[p2,  24,  96,   3]	 M   [ FNylon Gt.2
+[p2,  24,  96,   2]	 M   [ FNylon o
+[p2,  25,  97,   0]	 M   [ FOV Steel Gt
+[p2,  29,  96,   0]	 M   [ FOverdrive Gt
+[p2,  29,  98,   0]	 M   [ FOverdriveGt2
+[p2,  26,  96,   1]	 M   [ FPedal Steel
+[p2,  26,  97,   1]	 M   [ FPedal Steel2
+[p2,  26,  98,   1]	 M   [ FPedal Steel3
+[p2,  28,  98,   3]	 M   [ FSlap Jazz Gt
+[p2,  25,  96,   3]	 M   [ FSteel+Body
+[p2,  25,  97,   3]	 M   [ FSteel+Body 2
+[p2,  25,  98,   3]	 M   [ FSteel+Body 3
+[p2,  25,  96,   0]	 M   [ FSteel-str.Gt
+[p2,  25,  98,   0]	 M   [ FSteelStr.Gt2
+[p2,  27,  98,   0]	 M   [ FStrat2 Rear
+[p2,  27,  97,   1]	 M   [ FTC Front
+[p2,  27,  97,   2]	 M   [ FTC Front 2
+[p2,  28,  97,   0]	 M   [ FTC Mute Gt.
+[p2,  28,  98,   0]	 M   [ FTC Mute Gt.2
+[p2,  27,  97,   0]	 M   [ FTC Rear
+[p2,  24,  96,   1]	 M   [ FUkulele
+[p2,  24,  97,   1]	 M   [ FUkulele 2
+[p2,  24,  98,   1]	 M   [ FUkulele 3
+[p2,  14,  96,   2]	 N   }   b N E p [ J b V     F
+[p2,  14,  97,   2]	 N   }   b N E p [ J b V     F
+[p2,   8,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,   8,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  14,  96,   1]	 N   }   b N E p [ J b V     F
+[p2,  14,  97,   1]	 N   }   b N E p [ J b V     F
+[p2,   9,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,   9,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  12,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  12,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  12,  97,   1]	 N   }   b N E p [ J b V     F
+[p2,  12,  96,   1]	 N   }   b N E p [ J b V     F
+[p2,  10,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  10,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  15,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  15,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  14,  98,   2]	 N   }   b N E p [ J b V     F
+[p2,   8,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  14,  98,   1]	 N   }   b N E p [ J b V     F
+[p2,   9,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  12,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  12,  98,   1]	 N   }   b N E p [ J b V     F
+[p2,  10,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  15,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  14,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  11,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  11,  98,   1]	 N   }   b N E p [ J b V     F
+[p2,  13,  98,   0]	 N   }   b N E p [ J b V     F
+[p2,  14,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  14,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  11,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  11,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  11,  96,   1]	 N   }   b N E p [ J b V     F
+[p2,  11,  97,   1]	 N   }   b N E p [ J b V     F
+[p2,  13,  96,   0]	 N   }   b N E p [ J b V     F
+[p2,  13,  97,   0]	 N   }   b N E p [ J b V     F
+[p2,  99,  96,   0]	 V   ZSFX FAtmosphere
+[p2,  99,  97,   0]	 V   ZSFX FAtmosphere 2
+[p2,  99,  98,   0]	 V   ZSFX FAtmosphere 3
+[p2, 100,  96,   0]	 V   ZSFX FBrightness
+[p2, 100,  97,   0]	 V   ZSFX FBrightness 2
+[p2, 100,  98,   0]	 V   ZSFX FBrightness 3
+[p2,  98,  96,   0]	 V   ZSFX FCrystal
+[p2,  98,  97,   0]	 V   ZSFX FCrystal 2
+[p2,  98,  98,   0]	 V   ZSFX FCrystal 3
+[p2, 102,  96,   1]	 V   ZSFX FEcho Bell
+[p2, 102,  97,   1]	 V   ZSFX FEcho Bell 2
+[p2, 102,  98,   1]	 V   ZSFX FEcho Bell 3
+[p2, 102,  96,   0]	 V   ZSFX FEcho Drops
+[p2, 102,  97,   0]	 V   ZSFX FEcho Drops 2
+[p2, 102,  98,   0]	 V   ZSFX FEcho Drops 3
+[p2, 102,  96,   2]	 V   ZSFX FEcho Pan
+[p2, 102,  97,   2]	 V   ZSFX FEcho Pan 2
+[p2, 102,  98,   2]	 V   ZSFX FEcho Pan 3
+[p2, 101,  96,   0]	 V   ZSFX FGoblin
+[p2, 101,  97,   0]	 V   ZSFX FGoblin 2
+[p2, 101,  98,   0]	 V   ZSFX FGoblin 3
+[p2,  96,  96,   0]	 V   ZSFX FIce Rain
+[p2,  96,  97,   0]	 V   ZSFX FIce Rain 2
+[p2,  96,  98,   0]	 V   ZSFX FIce Rain 3
+[p2,  97,  96,   0]	 V   ZSFX FSoundtrack
+[p2,  97,  97,   0]	 V   ZSFX FSoundtrack 2
+[p2,  97,  98,   0]	 V   ZSFX FSoundtrack 3
+[p2, 103,  96,   0]	 V   ZSFX FStar Theme
+[p2, 103,  97,   0]	 V   ZSFX FStar Theme 2
+[p2, 103,  98,   0]	 V   ZSFX FStar Theme 3
+[p2,  98,  96,   1]	 V   ZSFX FSyn Mallet
+[p2,  98,  97,   1]	 V   ZSFX FSyn Mallet 2
+[p2,  98,  98,   1]	 V   ZSFX FSyn Mallet 3
+[p2,  92,  96,   0]	 V   Z E p b h FBowedGlass
+[p2,  92,  97,   0]	 V   Z E p b h FBowedGlass 2
+[p2,  92,  98,   0]	 V   Z E p b h FBowedGlass 3
+[p2,  88,  96,   0]	 V   Z E p b h FFantasia
+[p2,  88,  97,   0]	 V   Z E p b h FFantasia 2
+[p2,  88,  98,   0]	 V   Z E p b h FFantasia 3
+[p2,  94,  96,   0]	 V   Z E p b h FHalo Pad
+[p2,  94,  97,   0]	 V   Z E p b h FHalo Pad 2
+[p2,  94,  98,   0]	 V   Z E p b h FHalo Pad 3
+[p2,  91,  96,   1]	 V   Z E p b h FItopia
+[p2,  91,  97,   1]	 V   Z E p b h FItopia 2
+[p2,  91,  98,   1]	 V   Z E p b h FItopia 3
+[p2,  93,  96,   0]	 V   Z E p b h FMetal Pad
+[p2,  93,  97,   0]	 V   Z E p b h FMetal Pad 2
+[p2,  93,  98,   0]	 V   Z E p b h FMetal Pad 3
+[p2,  90,  96,   0]	 V   Z E p b h FPolysynth
+[p2,  90,  97,   0]	 V   Z E p b h FPolysynth 2
+[p2,  90,  98,   0]	 V   Z E p b h FPolysynth 3
+[p2,  89,  96,   1]	 V   Z E p b h FSine Pad
+[p2,  89,  97,   1]	 V   Z E p b h FSine Pad 2
+[p2,  89,  98,   1]	 V   Z E p b h FSine Pad 3
+[p2,  91,  96,   0]	 V   Z E p b h FSpaceVoice
+[p2,  91,  97,   0]	 V   Z E p b h FSpaceVoice 2
+[p2,  91,  98,   0]	 V   Z E p b h FSpaceVoice 3
+[p2,  95,  96,   0]	 V   Z E p b h FSweep Pad
+[p2,  95,  97,   0]	 V   Z E p b h FSweep Pad 2
+[p2,  95,  98,   0]	 V   Z E p b h FSweep Pad 3
+[p2,  89,  96,   0]	 V   Z E p b h FWarm Pad
+[p2,  89,  97,   0]	 V   Z E p b h FWarm Pad 2
+[p2,  89,  98,   0]	 V   Z E p b h FWarm Pad 3
+[p2,  80,  97,   2]	 V   Z E   [ h F2600 Sine
+[p2,  80,  98,   2]	 V   Z E   [ h F2600 Sine 2
+[p2,  86,  96,   0]	 V   Z E   [ h F5th SawWave
+[p2,  86,  97,   0]	 V   Z E   [ h F5th SawWave2
+[p2,  86,  98,   0]	 V   Z E   [ h F5th SawWave3
+[p2,  87,  96,   0]	 V   Z E   [ h FBass & Lead
+[p2,  87,  97,   0]	 V   Z E   [ h FBass & Lead2
+[p2,  87,  98,   0]	 V   Z E   [ h FBass & Lead3
+[p2,  84,  96,   0]	 V   Z E   [ h FCharang
+[p2,  84,  97,   0]	 V   Z E   [ h FCharang 2
+[p2,  84,  98,   0]	 V   Z E   [ h FCharang 3
+[p2,  83,  96,   0]	 V   Z E   [ h FChiffer Lead
+[p2,  83,  97,   0]	 V   Z E   [ h FChifferLead2
+[p2,  83,  98,   0]	 V   Z E   [ h FChifferLead3
+[p2,  81,  98,   4]	 V   Z E   [ h FDelaySeqence
+[p2,  87,  96,   1]	 V   Z E   [ h FDelayedLead
+[p2,  87,  97,   1]	 V   Z E   [ h FDelayedLead2
+[p2,  87,  98,   1]	 V   Z E   [ h FDelayedLead3
+[p2,  81,  96,   2]	 V   Z E   [ h FDoctor Solo
+[p2,  81,  97,   2]	 V   Z E   [ h FFat Saw Solo
+[p2,  80,  97,   1]	 V   Z E   [ h FFat Square
+[p2,  80,  98,   1]	 V   Z E   [ h FFat Square2
+[p2,  81,  98,   1]	 V   Z E   [ h FHybrit Saw
+[p2,  81,  98,   2]	 V   Z E   [ h FHybrit Solo
+[p2,  81,  97,   0]	 V   Z E   [ h FJP Saw Wave
+[p2,  81,  97,   1]	 V   Z E   [ h FMG Saw
+[p2,  81,  98,   3]	 V   Z E   [ h FMG Saw Lead
+[p2,  81,  97,   4]	 V   Z E   [ h FMG Sequence
+[p2,  80,  97,   0]	 V   Z E   [ h FMG Square
+[p2,  81,  96,   3]	 V   Z E   [ h FNatural Lead
+[p2,  80,  98,   0]	 V   Z E   [ h FOB Square
+[p2,  81,  98,   0]	 V   Z E   [ h FOct.JP Saw
+[p2,  81,  97,   3]	 V   Z E   [ h FP5 Saw Lead
+[p2,  81,  96,   1]	 V   Z E   [ h FSaw
+[p2,  81,  96,   0]	 V   Z E   [ h FSaw Wave
+[p2,  81,  96,   4]	 V   Z E   [ h FSequencedSaw
+[p2,  80,  96,   2]	 V   Z E   [ h FSine Wave
+[p2,  85,  96,   0]	 V   Z E   [ h FSolo Vox
+[p2,  85,  97,   0]	 V   Z E   [ h FSolo Vox 2
+[p2,  85,  98,   0]	 V   Z E   [ h FSolo Vox 3
+[p2,  80,  96,   1]	 V   Z E   [ h FSquare
+[p2,  80,  96,   0]	 V   Z E   [ h FSquare Wave
+[p2,  82,  96,   0]	 V   Z E   [ h FSyn.Calliope
+[p2,  82,  97,   0]	 V   Z E   [ h FSynCalliope2
+[p2,  82,  98,   0]	 V   Z E   [ h FSynCalliope3
+[p2,  84,  96,   1]	 V   Z E   [ h FWire Lead
+[p2,  84,  97,   1]	 V   Z E   [ h FWire Lead 2
+[p2,  84,  98,   1]	 V   Z E   [ h FWire Lead 3
+[p2, 118,  96,   1]	 p [ J b V u F808 tom
+[p2, 118,  97,   1]	 p [ J b V u F808 tom
+[p2, 118,  98,   1]	 p [ J b V u F808 tom
+[p2, 113,  96,   0]	 p [ J b V u FAgogo
+[p2, 113,  97,   0]	 p [ J b V u FAgogo
+[p2, 113,  98,   0]	 p [ J b V u FAgogo
+[p2, 115,  96,   1]	 p [ J b V u FCastanet
+[p2, 115,  97,   1]	 p [ J b V u FCastanet
+[p2, 115,  98,   1]	 p [ J b V u FCastanet
+[p2, 116,  96,   1]	 p [ J b V u FConcert BD
+[p2, 116,  97,   1]	 p [ J b V u FConcert BD
+[p2, 116,  98,   1]	 p [ J b V u FConcert BD
+[p2, 118,  96,   2]	 p [ J b V u FElec Perc
+[p2, 118,  97,   2]	 p [ J b V u FElec Perc
+[p2, 118,  98,   2]	 p [ J b V u FElec Perc
+[p2, 117,  96,   0]	 p [ J b V u FMelo.Tom 1
+[p2, 117,  97,   0]	 p [ J b V u FMelo.Tom 1
+[p2, 117,  98,   0]	 p [ J b V u FMelo.Tom 1
+[p2, 117,  96,   1]	 p [ J b V u FMelo.Tom 2
+[p2, 117,  97,   1]	 p [ J b V u FMelo.Tom 2
+[p2, 117,  98,   1]	 p [ J b V u FMelo.Tom 2
+[p2, 119,  96,   0]	 p [ J b V u FReverse Cym.
+[p2, 119,  97,   0]	 p [ J b V u FReverse Cym.
+[p2, 119,  98,   0]	 p [ J b V u FReverse Cym.
+[p2, 114,  96,   0]	 p [ J b V u FSteel Drums
+[p2, 114,  97,   0]	 p [ J b V u FSteel Drums
+[p2, 114,  98,   0]	 p [ J b V u FSteel Drums
+[p2, 118,  96,   0]	 p [ J b V u FSynth Drum
+[p2, 118,  97,   0]	 p [ J b V u FSynth Drum
+[p2, 118,  98,   0]	 p [ J b V u FSynth Drum
+[p2, 116,  96,   0]	 p [ J b V u FTaiko
+[p2, 116,  97,   0]	 p [ J b V u FTaiko
+[p2, 116,  98,   0]	 p [ J b V u FTaiko
+[p2, 112,  96,   0]	 p [ J b V u FTinkle Bell
+[p2, 112,  97,   0]	 p [ J b V u FTinkle Bell
+[p2, 112,  98,   0]	 p [ J b V u FTinkle Bell
+[p2, 115,  96,   0]	 p [ J b V u FWoodblock
+[p2, 115,  97,   0]	 p [ J b V u FWoodblock
+[p2, 115,  98,   0]	 p [ J b V u FWoodblock
+[p2,   4,  96,   3]	 s A m F60's E.Piano
+[p2,   0,  97,   0]	 s A m FAc.Piano
+[p2,   0,  97,   1]	 s A m FAc.Piano w
+[p2,   7,  97,   1]	 s A m FAnalog Clav1
+[p2,   7,  98,   1]	 s A m FAnalog Clav2
+[p2,   7,  97,   0]	 s A m FAtack Clav.1
+[p2,   7,  98,   0]	 s A m FAtack Clav.2
+[p2,   5,  98,   1]	 s A m FBrite FM EP
+[p2,   5,  98,   2]	 s A m FBrite FM EP2
+[p2,   7,  96,   0]	 s A m FClav
+[p2,   6,  96,   1]	 s A m FCoupl hps
+[p2,   6,  97,   1]	 s A m FCoupl hps. 2
+[p2,   4,  96,   1]	 s A m FDetuned EP1
+[p2,   5,  96,   1]	 s A m FDetuned EP2
+[p2,   4,  96,   2]	 s A m FDyno Rhodes
+[p2,   2,  97,   0]	 s A m FE.Grand Pf
+[p2,   2,  97,   1]	 s A m FE.Grand Pf w
+[p2,   4,  96,   0]	 s A m FE.Piano 1
+[p2,   5,  96,   0]	 s A m FE.Piano 2
+[p2,   5,  96,   2]	 s A m FE.Piano 2v
+[p2,   5,  96,   3]	 s A m FEP Legend
+[p2,   5,  97,   3]	 s A m FEP Legend 2
+[p2,   5,  98,   3]	 s A m FEP Legend 3
+[p2,   5,  96,   4]	 s A m FEP Phase
+[p2,   5,  97,   4]	 s A m FEP Phase 2
+[p2,   5,  98,   4]	 s A m FEP Phase 3
+[p2,   0,  98,   2]	 s A m FEuropean Pf
+[p2,   5,  97,   0]	 s A m FFM E.Piano
+[p2,   5,  98,   0]	 s A m FFM Hard EP
+[p2,   4,  97,   1]	 s A m FFat Rhodes
+[p2,   6,  97,   0]	 s A m FHarpsi 2
+[p2,   6,  97,   3]	 s A m FHarpsi 2 o
+[p2,   6,  97,   2]	 s A m FHarpsi 2 w
+[p2,   6,  96,   3]	 s A m FHarpsi o
+[p2,   6,  96,   2]	 s A m FHarpsi w
+[p2,   6,  96,   0]	 s A m FHarpsichord
+[p2,   3,  96,   0]	 s A m FHonky-tonk
+[p2,   3,  96,   1]	 s A m FHonky-tonk w
+[p2,   0,  97,   2]	 s A m FMild Piano
+[p2,   3,  97,   0]	 s A m FOld Honky
+[p2,   3,  97,   1]	 s A m FOld Honky w
+[p2,   0,  96,   0]	 s A m FPiano 1
+[p2,   0,  96,   2]	 s A m FPiano 1d
+[p2,   0,  96,   1]	 s A m FPiano 1w
+[p2,   1,  96,   0]	 s A m FPiano 2
+[p2,   1,  96,   1]	 s A m FPiano 2w
+[p2,   2,  96,   0]	 s A m FPiano 3
+[p2,   2,  96,   1]	 s A m FPiano 3w
+[p2,   7,  96,   1]	 s A m FPulse Clav
+[p2,   4,  97,   2]	 s A m FRhodes Wide
+[p2,   1,  97,   0]	 s A m FRock Piano
+[p2,   1,  97,   1]	 s A m FRock Piano w
+[p2,   5,  97,   2]	 s A m FSA E.Piano
+[p2,   2,  98,   0]	 s A m FSA Piano
+[p2,   2,  98,   1]	 s A m FSA Piano w
+[p2,   5,  97,   1]	 s A m FSoft FM EP
+[p2,   4,  97,   0]	 s A m FSoft Rhodes
+[p2,   6,  98,   1]	 s A m FSt.Coupl hps
+[p2,   6,  98,   3]	 s A m FSt.Harpsi o
+[p2,   6,  98,   2]	 s A m FSt.Harpsi w
+[p2,   6,  98,   0]	 s A m FSt.Harpsichd
+[p2,   3,  98,   0]	 s A m FSt.Honky
+[p2,   3,  98,   1]	 s A m FSt.Honky w
+[p2,   0,  98,   0]	 s A m FSt.Piano 1
+[p2,   0,  98,   1]	 s A m FSt.Piano 1 w
+[p2,   1,  98,   0]	 s A m FSt.Piano 2
+[p2,   1,  98,   1]	 s A m FSt.Piano 2 w
+[p2,   4,  98,   1]	 s A m FSweet Tynes
+[p2,   4,  98,   2]	 s A m FTremo Dyno
+[p2,   4,  98,   0]	 s A m FTremo Rhodes
+[p2,   4,  98,   3]	 s A m FTremo Wurly
+[p2,   4,  97,   3]	 s A m FWurly Soft
+[p2,  62,  97,   3]	 u   X F80's Brass
+[p2,  57,  98,   2]	 u   X FBr.Bone vib
+[p2,  61,  96,   0]	 u   X FBrass 1
+[p2,  61,  96,   1]	 u   X FBrass 2
+[p2,  61,  97,   0]	 u   X FBrass FF
+[p2,  61,  97,   1]	 u   X FBrassSection
+[p2,  57,  96,   2]	 u   X FBrite Bone
+[p2,  57,  97,   2]	 u   X FBrite Bone 2
+[p2,  63,  97,   2]	 u   X FCS Syn.Brass
+[p2,  56,  96,   1]	 u   X FDark Trumpet
+[p2,  60,  96,   1]	 u   X FFr.Horn
+[p2,  60,  96,   0]	 u   X FFrench Horns
+[p2,  60,  97,   0]	 u   X FFrenchHorns2
+[p2,  59,  97,   1]	 u   X FHarmon Mute
+[p2,  59,  98,   1]	 u   X FHarmon Mute2
+[p2,  62,  98,   0]	 u   X FHyper Brass
+[p2,  62,  97,   0]	 u   X FJP Syn.Brass
+[p2,  62,  97,   1]	 u   X FJPSyn.Brass2
+[p2,  62,  96,   3]	 u   X FJump Brass
+[p2,  63,  97,   0]	 u   X FMG Syn.Horn
+[p2,  56,  97,   1]	 u   X FMild Trumpet
+[p2,  60,  97,   1]	 u   X FMildFr.Horns
+[p2,  59,  96,   0]	 u   X FMt Trumpet
+[p2,  59,  96,   1]	 u   X FMt Trumpet2
+[p2,  59,  97,   0]	 u   X FMute Trumpet 2
+[p2,  63,  97,   1]	 u   X FOB Syn.Horn
+[p2,  62,  96,   2]	 u   X FOct.SynBrass
+[p2,  62,  97,   2]	 u   X FOctSynBrass2
+[p2,  62,  98,   2]	 u   X FOctSynBrass3
+[p2,  63,  98,   2]	 u   X FP5 Syn.Brass
+[p2,  63,  98,   1]	 u   X FRich SynHorn
+[p2,  56,  98,   0]	 u   X FRomantic Tp
+[p2,  57,  97,   0]	 u   X FSolo Bone
+[p2,  57,  97,   1]	 u   X FSolo Bone 2
+[p2,  59,  98,   0]	 u   X FSolo MutedTp
+[p2,  56,  97,   0]	 u   X FSolo Trumpet
+[p2,  61,  98,   0]	 u   X FSt.Brass
+[p2,  61,  98,   1]	 u   X FSt.Brass 2
+[p2,  60,  98,   0]	 u   X FSt.Fr Horns
+[p2,  60,  98,   1]	 u   X FSt.Fr Horns2
+[p2,  62,  98,   1]	 u   X FStack Brass
+[p2,  62,  98,   3]	 u   X FSuperSaw Brs
+[p2,  62,  96,   0]	 u   X FSynthBrass 1
+[p2,  63,  96,   0]	 u   X FSynthBrass 2
+[p2,  62,  96,   1]	 u   X FSynthBrass 3
+[p2,  63,  96,   1]	 u   X FSynthBrass 4
+[p2,  56,  98,   1]	 u   X FTp.Dark vib
+[p2,  57,  96,   0]	 u   X FTrombone
+[p2,  57,  96,   1]	 u   X FTrombone 2
+[p2,  57,  98,   0]	 u   X FTrombone vib
+[p2,  57,  98,   1]	 u   X FTrombone2vib
+[p2,  56,  96,   0]	 u   X FTrumpet
+[p2,  58,  96,   0]	 u   X FTuba
+[p2,  58,  97,   0]	 u   X FTuba 2
+[p2,  58,  98,   0]	 u   X FTuba vib
+[p2,  63,  96,   2]	 u   X FVelo Brass
+[p2,  63,  98,   0]	 u   X FWarm SynHorn
+[p2,  38,  96,   2]	 x [ X FAcid Bass
+[p2,  38,  98,   2]	 x [ X FAcidBs Dirty
+[p2,  32,  96,   0]	 x [ X FAcoustic Bs.
+[p2,  39,  98,   3]	 x [ X FAttack MG Bs
+[p2,  39,  96,   3]	 x [ X FAttack Pulse
+[p2,  39,  97,   3]	 x [ X FAttack Saw
+[p2,  39,  96,   1]	 x [ X FBeef FM Bs
+[p2,  39,  98,   1]	 x [ X FBeef Saw Bs
+[p2,  39,  97,   1]	 x [ X FBeef Slap Bs
+[p2,  38,  96,   3]	 x [ X FClavi Bass
+[p2,  38,  97,   3]	 x [ X FClavi Bass 2
+[p2,  38,  98,   3]	 x [ X FClavi Bass 3
+[p2,  32,  98,   0]	 x [ X FFat Aco.Bass
+[p2,  38,  98,   0]	 x [ X FFat Syn.Bass
+[p2,  33,  98,   1]	 x [ X FFinger Slap
+[p2,  33,  96,   1]	 x [ X FFingerJ.Bass
+[p2,  33,  97,   1]	 x [ X FFingerP.Bass
+[p2,  33,  96,   0]	 x [ X FFingered Bs.
+[p2,  33,  97,   0]	 x [ X FFingeredBs.2
+[p2,  35,  96,   0]	 x [ X FFretless Bs.
+[p2,  35,  97,   0]	 x [ X FFretlessBs.2
+[p2,  37,  97,   0]	 x [ X FFunky Slap
+[p2,  38,  96,   4]	 x [ X FHammer
+[p2,  33,  98,   0]	 x [ X FJazz Bass
+[p2,  36,  98,   0]	 x [ X FJazz Slap
+[p2,  39,  98,   2]	 x [ X FJpSaw Rubber
+[p2,  38,  97,   2]	 x [ X FMG Acid Bass
+[p2,  38,  97,   1]	 x [ X FMG Bass
+[p2,  38,  98,   4]	 x [ X FMG Hammer
+[p2,  38,  97,   0]	 x [ X FMG303 Bass
+[p2,  38,  97,   4]	 x [ X FOB Hammer
+[p2,  35,  98,   0]	 x [ X FPhaseFrtless
+[p2,  34,  96,   0]	 x [ X FPicked Bass
+[p2,  34,  97,   0]	 x [ X FPicked JzBs.
+[p2,  34,  98,   0]	 x [ X FPicking Bass
+[p2,  32,  97,   0]	 x [ X FRockabilly
+[p2,  39,  96,   2]	 x [ X FRubber Bass
+[p2,  39,  97,   2]	 x [ X FRubber Bass2
+[p2,  39,  97,   0]	 x [ X FSeq101 Bass
+[p2,  36,  96,   0]	 x [ X FSlap Bass 1
+[p2,  37,  96,   0]	 x [ X FSlap Bass 2
+[p2,  36,  97,   0]	 x [ X FSlap Pop 1
+[p2,  37,  98,   0]	 x [ X FSlap Pop 2
+[p2,  39,  98,   0]	 x [ X FSq SynthBass
+[p2,  38,  96,   0]	 x [ X FSynth Bass 1
+[p2,  39,  96,   0]	 x [ X FSynth Bass 2
+[p2,  38,  96,   1]	 x [ X FSynthBass101
+[p2,  38,  98,   1]	 x [ X FSynthSaw Bs.
+[p2,  65,  96,   0]	   [ h FAlto Sax
+[p2,  65,  98,   0]	   [ h FAltoSoft vib
+[p2,  67,  97,   0]	   [ h FBarely Bari
+[p2,  67,  98,   0]	   [ h FBari.Sax vib
+[p2,  67,  96,   0]	   [ h FBariton Sax
+[p2,  70,  96,   0]	   [ h FBassoon
+[p2,  70,  97,   0]	   [ h FBassoon 2
+[p2,  70,  98,   0]	   [ h FBassoon vib
+[p2,  66,  98,   0]	   [ h FBlow Tenor
+[p2,  76,  96,   0]	   [ h FBottle Blow
+[p2,  76,  97,   0]	   [ h FBottle Blow2
+[p2,  76,  98,   0]	   [ h FBottle vib
+[p2,  71,  97,   0]	   [ h FBr.Clarinet
+[p2,  65,  97,   0]	   [ h FBreathy Alto
+[p2,  66,  97,   0]	   [ h FBreathyTenor
+[p2,  68,  97,   0]	   [ h FBrite Oboe
+[p2,  71,  96,   0]	   [ h FClarinet
+[p2,  68,  98,   0]	   [ h FClassic Oboe
+[p2,  69,  98,   0]	   [ h FE.Horn vib
+[p2,  69,  96,   0]	   [ h FEnglishHorn
+[p2,  69,  97,   0]	   [ h FEnglishHorn2
+[p2,  73,  96,   0]	   [ h FFlute
+[p2,  73,  97,   0]	   [ h FFlute 2
+[p2,  73,  98,   0]	   [ h FFlute vib
+[p2,  71,  98,   0]	   [ h FJazzClarinet
+[p2,  68,  96,   0]	   [ h FOboe
+[p2,  79,  96,   0]	   [ h FOcarina
+[p2,  79,  97,   0]	   [ h FOcarina 2
+[p2,  79,  98,   0]	   [ h FOcarina vib
+[p2,  75,  96,   0]	   [ h FPan Flute
+[p2,  75,  97,   0]	   [ h FPan Flute 2
+[p2,  75,  98,   0]	   [ h FPanFlute vib
+[p2,  72,  96,   0]	   [ h FPiccolo
+[p2,  72,  97,   0]	   [ h FPiccolo 2
+[p2,  72,  98,   0]	   [ h FPiccolo vib
+[p2,  74,  96,   0]	   [ h FRecorder
+[p2,  74,  97,   0]	   [ h FRecorder 2
+[p2,  74,  98,   0]	   [ h FRecorder vib
+[p2,  77,  98,   0]	   [ h FShaku.vib
+[p2,  77,  96,   0]	   [ h FShakuhachi
+[p2,  77,  97,   0]	   [ h FShakuhachi 2
+[p2,  64,  98,   0]	   [ h FSop.Sax vib
+[p2,  64,  96,   0]	   [ h FSoprano Sax
+[p2,  64,  97,   0]	   [ h FSoprano Sax2
+[p2,  66,  96,   0]	   [ h FTenor Sax
+[p2,  78,  96,   0]	   [ h FWhistle
+[p2,  78,  97,   0]	   [ h FWhistle 2
+[p2,  78,  98,   0]	   [ h FWhistle vib
+
+[end]
